@@ -41,4 +41,5 @@ student-dashboard/
 
 ## DEMO
 
-
+![demo1](SS1.png)
+![demo2](SS2.png)
