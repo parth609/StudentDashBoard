@@ -31,4 +31,14 @@ It allows you to upload data from an Excel file, display it in a searchable and 
 ---
 
 ## 📂 Project Structure
+student-dashboard/
+│
+├── index.html       # Main HTML file
+├── style.css        # CSS styling
+├── script.js        # JavaScript logic
+├── README.md        # Project documentation
+└── sample.xlsx      # Example student data file
+
+## DEMO
+
 
